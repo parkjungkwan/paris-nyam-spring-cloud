@@ -1,0 +1,6 @@
+[submodule "paris-nyam-spring-cloud"]
+	path = paris-nyam-spring-cloud
+	url = https://github.com/parkjungkwan/paris-nyam-spring-cloud.git
+[submodule "spring-config"]
+	path = spring-config
+	url = https://github.com/parkjungkwan/spring-config.git
