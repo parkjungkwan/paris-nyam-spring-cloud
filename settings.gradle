@@ -1,5 +1,5 @@
 rootProject.name = 'nyamnyam'
-include 'server:config-server'
+
 include 'server:eureka-server'
 include 'server:gateway-server'
 include 'service:admin-service'
